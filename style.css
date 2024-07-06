@@ -62,6 +62,7 @@ a {
   background-image: url("assets/images/background.jpg");
   background-position: center;
   position: absolute;
+  opacity: 0.6;
   z-index: -1;
 }
 
